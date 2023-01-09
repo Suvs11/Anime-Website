@@ -1,0 +1,20 @@
+/*big tablets*/
+@media only screen and (max-width: 1200px){
+    .hero-text-box{
+        padding: 0 2%;
+        width: 100%;
+    }
+}
+/*for smol tablets to big tablets*/
+@media only screen and (max-width: 1023px){
+
+}
+/*for smol phones to smol tablets*/
+@media only screen and (max-width: 767px){
+
+}
+/*for smol phones*/
+@media only screen and (max-width: 480px){
+
+}
+
